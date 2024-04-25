@@ -10,3 +10,5 @@ HOW TO RUN: download all files from github. type 'chmod +x run.sh', then type '.
 run.sh will install the requirements needed for the program, intialize the database, and run the application.
 
 INSTALLMENTS NEEDED: pip3 install flask, werkzeug needed as well
+
+Example account to go through: username: alyssa, password: alyssa
